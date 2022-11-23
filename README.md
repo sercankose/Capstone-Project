@@ -1,3 +1,11 @@
+# Capstone Project for Frontend Career Path Certificate Program on Scrimba
+
+I took the "Frontend Developer Career Path Certificate Program" on Scrimba. One of the course projects is Capstone Project. 
+This project was finished by completing the challenges step by step.
+
+In this app, you can add photos to the cart and remove them. Also, you can like/unlike them. After adding photos to cart, click the place order to buy them.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
